@@ -9,7 +9,7 @@ Mailio is a lightweight, open-source email client utility designed to help you r
 
 To get the latest compiled version of Mailio, visit our official releases page:
 
-### 👉 [**Download the Latest Version of Mailio Here**](https://github.com/YOUR_GITHUB_USERNAME/mailio-downloads/releases)
+### 👉 [**Download the Latest Version of Mailio Here**](https://github.com/wckdfhad/Mailio-Download/releases/tag/v1.0.0)
 
 ### How to Install:
 1. Click the download link above.
@@ -23,8 +23,8 @@ To get the latest compiled version of Mailio, visit our official releases page:
 
 Your security and data privacy are important to us. Mailio acts as a client utility to handle your emails locally and routes them through your chosen provider. We do not store or track your credentials.
 
-* 📄 [**Privacy Policy**](YOUR_PRIVACY_POLICY_GIST_LINK_HERE)
-* ⚖️ [**Terms and Conditions**](YOUR_TERMS_GIST_LINK_HERE)
+* 📄 [**Privacy Policy**](https://gist.github.com/wckdfhad/9c6759fe5abcd6ac32d3782e2fb55149)
+* ⚖️ [**Terms and Conditions**](https://gist.github.com/wckdfhad/2aa41fe807625d52bc4f0a82d0b7d71d)
 
 ---
 
