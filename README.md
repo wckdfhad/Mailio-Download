@@ -32,6 +32,6 @@ Mailio does **not**:
 
 ## About
 
-[Privacy Policy](https://github.com/wckdfhad/Mailio-Download/blob/main/Privacy.html)
+[Privacy Policy](https://github.com/wckdfhad/Mailio-Download/main/Privacy.html)
 
-[Terms and Conditions](https://github.com/wckdfhad/Mailio-Download/blob/main/Privacy.html)
+[Terms and Conditions](https://github.com/wckdfhad/Mailio-Download/main/Terms.html)
